@@ -1,3 +1,7 @@
 hi file4
 welcome
+<<<<<<< HEAD
 created in remote main
+=======
+created in local main
+>>>>>>> 23f74c9 (file4 added in local main)
