@@ -1,3 +1,7 @@
 hi file7
 welcome
+<<<<<<< HEAD
 created in remote main branch
+=======
+created in local main branch
+>>>>>>> f260993 (file7 added in local main branch)
