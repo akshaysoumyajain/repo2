@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi file10 created in remote branch
+=======
+hi file10 created in local branch
+>>>>>>> 31cae7f (file10 added in local branch)
