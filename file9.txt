@@ -4,3 +4,4 @@ hi file9 created in local branch
 hi file9 created in remote branch
 >>>>>>> 20fd0da0393fcb255de0ac910023faf571e31010
 hello
+hello1
